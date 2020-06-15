@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  valid = { sam:, is cool}
+  valid = { sam: "is cool"}
 end
 
 def pioneer
